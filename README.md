@@ -1,12 +1,41 @@
-# React + Vite
+# InsightPanel - SaaS Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-Currently, two official plugins are available:
+A fully responsive **SaaS dashboard** built with **React**, **Vite**, and **Tailwind CSS**, designed to turn your eCommerce data into actionable insights through interactive charts, tables, and visualizations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Features
+- Interactive charts and tables for key eCommerce metrics  
+- Dynamic map visualization  
+- Responsive design for desktop and mobile  
+- Easy-to-use filtering and navigation  
+- Real-time overview of critical metrics  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+- **Frontend:** React.js, Vite, Tailwind CSS  
+- **Data Visualization:** Chart.js / Recharts  
+- **Deployment:** Vercel  
+- **Version Control:** Git & GitHub  
+
+---
+
+## Screenshots
+
+### Dashboard View
+![Dashboard Screenshot](images/dashboard1.png)
+
+![Dashboard Screenshot](images/dashboard2.png)
+
+![Dashboard Screenshot](images/dashboard3.png)
+
+
+---
+
+
