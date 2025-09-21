@@ -29,11 +29,11 @@ A fully responsive **SaaS dashboard** built with **React**, **Vite**, and **Tail
 ## Screenshots
 
 ### Dashboard View
-![Dashboard Screenshot](images/dashboard1.png)
+![Dashboard Screenshot](images/dashboard1-light.png)
 
-![Dashboard Screenshot](images/dashboard2.png)
+![Dashboard Screenshot](images/dashboard2-light.png)
 
-![Dashboard Screenshot](images/dashboard3.png)
+![Dashboard Screenshot](images/dashboard3-light.png)
 
 
 ---
