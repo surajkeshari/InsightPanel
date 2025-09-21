@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* CSS Variables for Theming */
+:root {
+  --font-family-sans: 'Inter', sans-serif;
+
+  /* Light Theme Colors */
+  --bg-main: #F9FAFB;
+  --bg-default: #FFFFFF;
+  --border-color: #E5E7EB;
+  --text-primary: #111827;
+  --text-secondary: #6B7281;
+  --accent-color: #3B82F6;
+}
+
+[data-theme='dark'] {
+  --bg-main: #111827;
+  --bg-default: #1F2937;
+  --border-color: #4B5563;
+  --text-primary: #F9FAFB;
+  --text-secondary: #D1D5DB;
+  --accent-color: #60A5FA;
+}
+
+body {
+  font-family: var(--font-family-sans);
+  background-color: var(--bg-main);
+  color: var(--text-primary);
+}
